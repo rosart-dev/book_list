@@ -7,6 +7,7 @@ Web Application written in vanilla JS that allows users to maintain a list of bo
     ISBN
 
 Features include:
+
     Form validation
     Utilizes local storage to persist data
     Ability to remove a book from the list
